@@ -4,3 +4,7 @@ body {
   color: lime;
 
 }
+img {
+  length: 200px;
+  width: 200px;
+}
